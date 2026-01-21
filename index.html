@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Nid des Âmes</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500,650&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+  <!-- Background image layer -->
+  <div class="bg" aria-hidden="true"></div>
+
+  <!-- Fox corner (tetap cerah) -->
+  <img class="corner-fox" src="./assets/fox.png" alt="" aria-hidden="true" />
+
+  <div class="wrap">
+    <header class="topbar">
+        <div class="brand">
+        <img src="./assets/logo.png" alt="Nid des Âmes logo" class="brand__logo" />
+
+        <div class="brand__text">
+        <div class="brand__title">Nid des Âmes</div>
+        <div class="brand__tagline">A gentle world for different natures.</div>
+    </div>
+  </div>
+
+      <nav class="nav">
+        <button class="pill is-active" data-nav="home">Home</button>
+        <button class="pill" data-nav="test">Test</button>
+        <button class="pill" data-nav="result">Result</button>
+      </nav>
+    </header>
+
+    <main class="stage">
+      <!-- HOME -->
+      <section id="view-home" class="view is-active">
+        <div class="heroCard">
+          <div class="heroLeft">
+            <h1 class="h1">Nid des Âmes</h1>
+
+            <p class="lead">
+              This is not a test to define you. It’s a quiet space to notice how your heart moves—
+              when it feels close, when it needs distance, when it stays, and when it protects itself.
+            </p>
+
+            <div class="note">
+              <span class="noteDot" aria-hidden="true"></span>
+              <span>Take your time. There’s no right way to be here.</span>
+            </div>
+
+            <div class="ctaRow">
+              <button class="btn primary" id="btn-enter">Enter gently</button>
+              <button class="btn ghost" id="btn-preview">Preview vibe</button>
+            </div>
+
+            <p class="micro">Warm, reflective, not a verdict. Just a mirror.</p>
+          </div>
+
+          <aside class="heroRight">
+            <div class="miniCard">
+              <div class="miniTitle">Your Nature Card</div>
+              <div class="miniLine"></div>
+              <p class="miniText">
+                A small, warm mirror—written like a letter.
+                Not to decide anything. Just to understand.
+              </p>
+
+              <div class="pillRow">
+                <span class="chip">Attachment</span>
+                <span class="chip">Love Language</span>
+                <span class="chip">Conflict Style</span>
+                <span class="chip">Regulation</span>
+              </div>
+            </div>
+          </aside>
+        </div>
+
+        <footer class="footer">
+          © Nid des Âmes • A warm, reflective experience — not a dating app.
+        </footer>
+      </section>
+
+      <!-- TEST -->
+      <section id="view-test" class="view">
+        <div class="panel">
+          <div class="panelTop">
+            <div>
+              <div class="panelTitle">Test</div>
+              <div class="panelSub">Pilih jawaban yang paling natural buat kamu.</div>
+            </div>
+
+            <div class="progress">
+              <div class="progressText" id="progressText">0 / 0</div>
+              <div class="track">
+                <div class="bar" id="progressFill" style="width:0%"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="qbox">
+            <div class="qText" id="qText">Klik "Enter gently" dulu ya…</div>
+            <div class="qOptions" id="qOptions"></div>
+          </div>
+
+          <div class="panelActions">
+            <button class="btn ghost" id="btn-back" disabled>Back</button>
+            <button class="btn primary" id="btn-next" disabled>Next</button>
+          </div>
+        </div>
+
+        <footer class="footer">
+          Tip: jawaban “benar” nggak ada. Yang ada: pola yang jujur.
+        </footer>
+      </section>
+
+      <!-- RESULT -->
+      <section id="view-result" class="view">
+        <div class="panel">
+          <div class="panelTop">
+            <div>
+              <div class="panelTitle">Result</div>
+              <div class="panelSub">Ringkasan yang lembut (bukan vonis).</div>
+            </div>
+            <button class="btn ghost" id="btn-restart">Restart</button>
+          </div>
+
+          <div class="resultGrid">
+            <div class="resultCard">
+              <div class="resultH">Dominant Signals</div>
+              <div class="resultP" id="resultSummary">Selesaikan test dulu ya 🙂</div>
+              <div class="resultTags" id="resultTags"></div>
+            </div>
+
+            <div class="resultCard">
+              <div class="resultH">Your Note</div>
+              <div class="resultP" id="resultNote">
+                “You don’t have to be loud to be real. Softness can be a home.”
+              </div>
+              <div class="resultMini">
+                Kamu bisa pakai ini sebagai bahan refleksi atau ngobrol bareng pasangan.
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <footer class="footer">© Nid des Âmes • Keep it gentle.</footer>
+      </section>
+    </main>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>

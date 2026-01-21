@@ -1,0 +1,1011 @@
+[
+{
+"id": 1,
+"text": "Saat pertama kali tertarik pada seseorang, hal apa yang paling cepat membuatmu merasa nyaman?",
+"options": [
+{ "key": "A", "text": "Obrolan mengalir tanpa dipaksa.", "tags": ["mbti_i","ll_words","color_blue"] },
+{ "key": "B", "text": "Humor kecil yang bikin ketawa bareng.", "tags": ["mbti_e","disc_i","ll_time"] },
+{ "key": "C", "text": "Perhatian lewat tindakan sederhana.", "tags": ["ll_acts","disc_s","color_gold"] },
+{ "key": "D", "text": "Gestur hangat yang terasa aman.", "tags": ["ll_touch","att_secure","color_red"] }
+]
+},
+{
+"id": 2,
+"text": "Kalau chat dibalas lama, reaksi pertamamu biasanya…",
+"options": [
+{ "key": "A", "text": "Santai, mungkin dia lagi sibuk.", "tags": ["att_secure","emo_reframe","disc_s"] },
+{ "key": "B", "text": "Kepikiran, jangan-jangan aku salah ngomong.", "tags": ["att_anxious","emo_ruminate","color_blue"] },
+{ "key": "C", "text": "Aku alihkan perhatian ke hal lain.", "tags": ["att_avoidant","emo_suppress","mbti_i"] },
+{ "key": "D", "text": "Aku tunggu momen yang pas buat follow up.", "tags": ["conf_analyzer","proc_micro","disc_c"] }
+]
+},
+{
+"id": 3,
+"text": "Di kencan awal, kamu paling menikmati momen seperti apa?",
+"options": [
+{ "key": "A", "text": "Ngobrol lama soal hal-hal bermakna.", "tags": ["ll_time","mbti_n","color_blue"] },
+{ "key": "B", "text": "Aktivitas seru yang spontan.", "tags": ["mbti_p","disc_i","color_red"] },
+{ "key": "C", "text": "Tempat nyaman dengan alur jelas.", "tags": ["mbti_j","disc_c","color_gold"] },
+{ "key": "D", "text": "Hal sederhana tapi hangat.", "tags": ["disc_s","ll_touch","att_secure"] }
+]
+},
+{
+"id": 4,
+"text": "Saat beda pendapat kecil muncul, kamu cenderung…",
+"options": [
+{ "key": "A", "text": "Mencari kata yang pas agar tetap rukun.", "tags": ["conf_pleaser","mbti_f","color_blue"] },
+{ "key": "B", "text": "Langsung bahas inti masalahnya.", "tags": ["conf_fighter","mbti_t","disc_d"] },
+{ "key": "C", "text": "Diam dulu buat menenangkan diri.", "tags": ["conf_freezer","emo_soothe","mbti_i"] },
+{ "key": "D", "text": "Mengurai satu per satu dengan tenang.", "tags": ["conf_analyzer","proc_micro","disc_c"] }
+]
+},
+{
+"id": 5,
+"text": "Bentuk perhatian yang paling kamu rasakan sebagai cinta adalah…",
+"options": [
+{ "key": "A", "text": "Kata-kata yang menenangkan.", "tags": ["ll_words","mbti_f","color_blue"] },
+{ "key": "B", "text": "Waktu khusus tanpa distraksi.", "tags": ["ll_time","att_secure","disc_s"] },
+{ "key": "C", "text": "Bantuan nyata saat dibutuhkan.", "tags": ["ll_acts","color_gold","disc_c"] },
+{ "key": "D", "text": "Sentuhan yang lembut.", "tags": ["ll_touch","color_red","mbti_s"] }
+]
+},
+{
+"id": 6,
+"text": "Kalau pasangan sedang murung, respon alammu adalah…",
+"options": [
+{ "key": "A", "text": "Menemani tanpa banyak tanya.", "tags": ["disc_s","ll_time","att_secure"] },
+{ "key": "B", "text": "Mencari solusi praktis.", "tags": ["mbti_t","ll_acts","disc_d"] },
+{ "key": "C", "text": "Mengajak bicara dari hati ke hati.", "tags": ["mbti_f","ll_words","color_blue"] },
+{ "key": "D", "text": "Memberi ruang sampai dia siap.", "tags": ["att_avoidant","emo_suppress","mbti_i"] }
+]
+},
+{
+"id": 7,
+"text": "Saat hubungan mulai serius, yang kamu perhatikan lebih dulu adalah…",
+"options": [
+{ "key": "A", "text": "Nilai dan visi ke depan.", "tags": ["mbti_n","proc_global","disc_c"] },
+{ "key": "B", "text": "Rasa nyaman sehari-hari.", "tags": ["mbti_s","disc_s","att_secure"] },
+{ "key": "C", "text": "Koneksinya terasa hidup.", "tags": ["mbti_e","disc_i","color_red"] },
+{ "key": "D", "text": "Struktur dan kejelasan.", "tags": ["mbti_j","color_gold","disc_c"] }
+]
+},
+{
+"id": 8,
+"text": "Kalau rencana mendadak berubah, kamu biasanya…",
+"options": [
+{ "key": "A", "text": "Fleksibel, ikut alurnya.", "tags": ["mbti_p","disc_i","emo_reframe"] },
+{ "key": "B", "text": "Butuh waktu menyesuaikan.", "tags": ["mbti_j","emo_soothe","disc_s"] },
+{ "key": "C", "text": "Cari alternatif yang tetap rapi.", "tags": ["disc_c","proc_micro","mbti_t"] },
+{ "key": "D", "text": "Tanya kebutuhan masing-masing.", "tags": ["mbti_f","att_secure","ll_words"] }
+]
+},
+{
+"id": 9,
+"text": "Dalam konflik, bagian tersulit buatmu adalah…",
+"options": [
+{ "key": "A", "text": "Mengungkapkan perasaan sendiri.", "tags": ["conf_echo","mbti_i","emo_suppress"] },
+{ "key": "B", "text": "Menahan emosi yang meledak.", "tags": ["conf_fighter","color_red","emo_soothe"] },
+{ "key": "C", "text": "Takut menyakiti perasaan.", "tags": ["conf_pleaser","mbti_f","att_anxious"] },
+{ "key": "D", "text": "Menyederhanakan masalah.", "tags": ["conf_analyzer","proc_micro","mbti_t"] }
+]
+},
+{
+"id": 10,
+"text": "Setelah bertengkar, yang paling kamu butuhkan adalah…",
+"options": [
+{ "key": "A", "text": "Pelukan dan kehadiran.", "tags": ["ll_touch","att_secure","color_red"] },
+{ "key": "B", "text": "Pembicaraan yang jujur.", "tags": ["ll_words","mbti_f","color_blue"] },
+{ "key": "C", "text": "Waktu menenangkan diri.", "tags": ["emo_soothe","mbti_i","disc_s"] },
+{ "key": "D", "text": "Kesepakatan langkah ke depan.", "tags": ["mbti_j","disc_c","proc_global"] }
+]
+}
+,
+{
+"id": 11,
+"text": "Cara kamu menunjukkan rindu biasanya…",
+"options": [
+{ "key": "A", "text": "Mengirim pesan manis.", "tags": ["ll_words","disc_i","color_blue"] },
+{ "key": "B", "text": "Meluangkan waktu khusus.", "tags": ["ll_time","disc_s","att_secure"] },
+{ "key": "C", "text": "Melakukan sesuatu untuknya.", "tags": ["ll_acts","color_gold","mbti_s"] },
+{ "key": "D", "text": "Mendekat secara fisik.", "tags": ["ll_touch","color_red","mbti_e"] }
+]
+},
+{
+"id": 12,
+"text": "Saat merasa tidak dipahami, kamu cenderung…",
+"options": [
+{ "key": "A", "text": "Menjelaskan lagi dengan contoh.", "tags": ["conf_analyzer","proc_micro","disc_c"] },
+{ "key": "B", "text": "Menyimpan perasaan dulu.", "tags": ["emo_suppress","mbti_i","att_avoidant"] },
+{ "key": "C", "text": "Mencari dukungan.", "tags": ["emo_seek","att_anxious","disc_i"] },
+{ "key": "D", "text": "Mencoba melihat dari sudut pandang lain.", "tags": ["emo_reframe","mbti_n","proc_global"] }
+]
+},
+{
+"id": 13,
+"text": "Dalam hubungan, ritme ideal bagimu adalah…",
+"options": [
+{ "key": "A", "text": "Stabil dan konsisten.", "tags": ["disc_s","mbti_j","att_secure"] },
+{ "key": "B", "text": "Dinamis dan spontan.", "tags": ["disc_i","mbti_p","color_red"] },
+{ "key": "C", "text": "Terstruktur tapi lentur.", "tags": ["disc_c","proc_global","mbti_t"] },
+{ "key": "D", "text": "Mengikuti perasaan saat itu.", "tags": ["mbti_f","color_blue","emo_reframe"] }
+]
+},
+{
+"id": 14,
+"text": "Hal kecil yang bisa merusak mood kamu adalah…",
+"options": [
+{ "key": "A", "text": "Nada bicara yang dingin.", "tags": ["mbti_f","att_anxious","color_blue"] },
+{ "key": "B", "text": "Janji yang meleset.", "tags": ["mbti_j","disc_c","color_gold"] },
+{ "key": "C", "text": "Rutinitas yang kaku.", "tags": ["mbti_p","disc_i","color_red"] },
+{ "key": "D", "text": "Keramaian berlebihan.", "tags": ["mbti_i","emo_soothe","disc_s"] }
+]
+},
+{
+"id": 15,
+"text": "Jika harus memilih, kamu lebih nyaman dengan pasangan yang…",
+"options": [
+{ "key": "A", "text": "Hangat dan ekspresif.", "tags": ["mbti_e","ll_touch","color_red"] },
+{ "key": "B", "text": "Tenang dan dapat diandalkan.", "tags": ["disc_s","att_secure","color_gold"] },
+{ "key": "C", "text": "Visioner dan reflektif.", "tags": ["mbti_n","color_blue","proc_global"] },
+{ "key": "D", "text": "Teratur dan logis.", "tags": ["mbti_t","disc_c","mbti_j"] }
+]
+},
+{
+"id": 16,
+"text": "Saat kamu butuh ruang, caramu menyampaikannya adalah…",
+"options": [
+{ "key": "A", "text": "Bilang jujur dengan lembut.", "tags": ["ll_words","att_secure","mbti_f"] },
+{ "key": "B", "text": "Menarik diri perlahan.", "tags": ["att_avoidant","emo_suppress","mbti_i"] },
+{ "key": "C", "text": "Mengusulkan jadwal ulang.", "tags": ["mbti_j","disc_c","proc_micro"] },
+{ "key": "D", "text": "Mengalihkan ke aktivitas sendiri.", "tags": ["emo_soothe","mbti_s","disc_s"] }
+]
+},
+{
+"id": 17,
+"text": "Buatmu, keintiman itu lebih tentang…",
+"options": [
+{ "key": "A", "text": "Keterbukaan emosional.", "tags": ["mbti_f","color_blue","att_secure"] },
+{ "key": "B", "text": "Kehadiran fisik.", "tags": ["ll_touch","color_red","mbti_s"] },
+{ "key": "C", "text": "Kebersamaan bermakna.", "tags": ["ll_time","disc_s","proc_global"] },
+{ "key": "D", "text": "Kepercayaan yang konsisten.", "tags": ["disc_c","color_gold","mbti_j"] }
+]
+},
+{
+"id": 18,
+"text": "Saat pasangan butuh keputusan cepat, kamu…",
+"options": [
+{ "key": "A", "text": "Ambil alih dan tentukan.", "tags": ["disc_d","mbti_t","color_red"] },
+{ "key": "B", "text": "Minta pendapat dulu.", "tags": ["mbti_f","disc_s","ll_words"] },
+{ "key": "C", "text": "Menimbang opsi singkat.", "tags": ["conf_analyzer","proc_micro","disc_c"] },
+{ "key": "D", "text": "Ikut keputusan bersama.", "tags": ["disc_i","mbti_p","emo_reframe"] }
+]
+},
+{
+"id": 19,
+"text": "Kecemburuan kecil biasanya kamu kelola dengan…",
+"options": [
+{ "key": "A", "text": "Mengomunikasikannya.", "tags": ["ll_words","att_secure","mbti_f"] },
+{ "key": "B", "text": "Menenangkan diri sendiri.", "tags": ["emo_soothe","mbti_i","disc_s"] },
+{ "key": "C", "text": "Mencari kejelasan fakta.", "tags": ["conf_analyzer","mbti_t","disc_c"] },
+{ "key": "D", "text": "Mengalihkan ke aktivitas.", "tags": ["emo_suppress","mbti_p","disc_i"] }
+]
+},
+{
+"id": 20,
+"text": "Rencana masa depan membuatmu merasa…",
+"options": [
+{ "key": "A", "text": "Tenang dan fokus.", "tags": ["mbti_j","disc_c","att_secure"] },
+{ "key": "B", "text": "Bersemangat membayangkan.", "tags": ["mbti_n","disc_i","color_red"] },
+{ "key": "C", "text": "Sedikit cemas tapi tertarik.", "tags": ["att_anxious","emo_ruminate","color_blue"] },
+{ "key": "D", "text": "Lebih suka jalanin dulu.", "tags": ["mbti_p","att_avoidant","emo_reframe"] }
+]
+}
+,
+{
+"id": 21,
+"text": "Saat kamu minta maaf, yang paling penting adalah…",
+"options": [
+{ "key": "A", "text": "Nada yang tulus.", "tags": ["mbti_f","ll_words","color_blue"] },
+{ "key": "B", "text": "Perubahan perilaku.", "tags": ["ll_acts","color_gold","disc_c"] },
+{ "key": "C", "text": "Waktu yang tepat.", "tags": ["disc_s","emo_soothe","mbti_i"] },
+{ "key": "D", "text": "Kesepakatan ke depan.", "tags": ["mbti_j","proc_global","disc_c"] }
+]
+},
+{
+"id": 22,
+"text": "Kamu merasa paling didengar ketika pasangan…",
+"options": [
+{ "key": "A", "text": "Mengulang inti ceritamu.", "tags": ["conf_analyzer","proc_micro","disc_c"] },
+{ "key": "B", "text": "Menatap dan hadir penuh.", "tags": ["ll_time","att_secure","disc_s"] },
+{ "key": "C", "text": "Merespon dengan empati.", "tags": ["mbti_f","color_blue","emo_seek"] },
+{ "key": "D", "text": "Memberi solusi jelas.", "tags": ["mbti_t","disc_d","color_gold"] }
+]
+},
+{
+"id": 23,
+"text": "Di hari padat, cara terbaik mengisi ulang energimu adalah…",
+"options": [
+{ "key": "A", "text": "Waktu sendiri.", "tags": ["mbti_i","emo_soothe","disc_s"] },
+{ "key": "B", "text": "Ngobrol ringan.", "tags": ["mbti_e","disc_i","ll_words"] },
+{ "key": "C", "text": "Merapikan rencana.", "tags": ["disc_c","mbti_j","proc_micro"] },
+{ "key": "D", "text": "Aktivitas fisik santai.", "tags": ["mbti_s","color_red","emo_reframe"] }
+]
+},
+{
+"id": 24,
+"text": "Kalau ada salah paham, kamu lebih suka…",
+"options": [
+{ "key": "A", "text": "Langsung diluruskan.", "tags": ["conf_fighter","disc_d","mbti_t"] },
+{ "key": "B", "text": "Menunggu suasana tenang.", "tags": ["conf_freezer","emo_soothe","mbti_i"] },
+{ "key": "C", "text": "Dibicarakan pelan-pelan.", "tags": ["conf_pleaser","mbti_f","color_blue"] },
+{ "key": "D", "text": "Ditulis atau dirangkum.", "tags": ["conf_analyzer","proc_micro","disc_c"] }
+]
+},
+{
+"id": 25,
+"text": "Hadiah kecil buatmu terasa bermakna jika…",
+"options": [
+{ "key": "A", "text": "Ada ceritanya.", "tags": ["ll_gifts","mbti_n","color_blue"] },
+{ "key": "B", "text": "Dipilih dengan perhatian.", "tags": ["ll_gifts","disc_c","color_gold"] },
+{ "key": "C", "text": "Diberikan spontan.", "tags": ["ll_gifts","mbti_p","color_red"] },
+{ "key": "D", "text": "Disertai waktu bersama.", "tags": ["ll_time","disc_s","att_secure"] }
+]
+},
+{
+"id": 26,
+"text": "Saat emosi naik, tubuhmu cenderung…",
+"options": [
+{ "key": "A", "text": "Mencari napas dan jeda.", "tags": ["emo_soothe","mbti_i","disc_s"] },
+{ "key": "B", "text": "Ingin mengekspresikan.", "tags": ["emo_seek","mbti_e","color_red"] },
+{ "key": "C", "text": "Menahan dan menganalisis.", "tags": ["emo_suppress","conf_analyzer","disc_c"] },
+{ "key": "D", "text": "Mengubah sudut pandang.", "tags": ["emo_reframe","mbti_n","proc_global"] }
+]
+},
+{
+"id": 27,
+"text": "Dalam percakapan penting, kamu lebih fokus pada…",
+"options": [
+{ "key": "A", "text": "Perasaan yang terlibat.", "tags": ["mbti_f","color_blue","proc_global"] },
+{ "key": "B", "text": "Fakta dan detail.", "tags": ["mbti_s","proc_micro","disc_c"] },
+{ "key": "C", "text": "Arah dan tujuan.", "tags": ["mbti_n","disc_d","proc_global"] },
+{ "key": "D", "text": "Alur dan kesepakatan.", "tags": ["mbti_j","disc_c","color_gold"] }
+]
+},
+{
+"id": 28,
+"text": "Kalau pasangan butuh dukungan, kamu merasa paling berguna saat…",
+"options": [
+{ "key": "A", "text": "Ada di sisinya.", "tags": ["ll_time","disc_s","att_secure"] },
+{ "key": "B", "text": "Memberi saran praktis.", "tags": ["ll_acts","mbti_t","disc_d"] },
+{ "key": "C", "text": "Mendengarkan penuh empati.", "tags": ["mbti_f","emo_seek","color_blue"] },
+{ "key": "D", "text": "Membantu menata langkah.", "tags": ["proc_micro","disc_c","mbti_j"] }
+]
+},
+{
+"id": 29,
+"text": "Batasan pribadi terasa sehat bagimu ketika…",
+"options": [
+{ "key": "A", "text": "Disepakati bersama.", "tags": ["att_secure","mbti_j","disc_c"] },
+{ "key": "B", "text": "Fleksibel sesuai kondisi.", "tags": ["mbti_p","emo_reframe","disc_i"] },
+{ "key": "C", "text": "Dihormati tanpa drama.", "tags": ["att_avoidant","emo_suppress","disc_s"] },
+{ "key": "D", "text": "Dijelaskan dengan empati.", "tags": ["mbti_f","ll_words","color_blue"] }
+]
+},
+{
+"id": 30,
+"text": "Saat hubungan terasa datar, kamu cenderung…",
+"options": [
+{ "key": "A", "text": "Mengajak coba hal baru.", "tags": ["mbti_p","disc_i","color_red"] },
+{ "key": "B", "text": "Mengevaluasi bersama.", "tags": ["conf_analyzer","proc_global","disc_c"] },
+{ "key": "C", "text": "Mencari kehangatan kecil.", "tags": ["ll_touch","disc_s","att_secure"] },
+{ "key": "D", "text": "Mengungkapkan perasaan.", "tags": ["ll_words","mbti_f","color_blue"] }
+]
+}
+,
+{
+"id": 31,
+"text": "Kalau harus mengambil keputusan bersama, kamu lebih nyaman dengan…",
+"options": [
+{ "key": "A", "text": "Diskusi terbuka.", "tags": ["mbti_f","disc_i","ll_words"] },
+{ "key": "B", "text": "Kerangka yang jelas.", "tags": ["mbti_j","disc_c","color_gold"] },
+{ "key": "C", "text": "Eksplorasi beberapa opsi.", "tags": ["mbti_p","proc_global","color_red"] },
+{ "key": "D", "text": "Pertimbangan data.", "tags": ["mbti_t","proc_micro","disc_c"] }
+]
+},
+{
+"id": 32,
+"text": "Ketika kecewa, langkah pertamamu biasanya…",
+"options": [
+{ "key": "A", "text": "Menarik napas dan menenangkan diri.", "tags": ["emo_soothe","mbti_i","disc_s"] },
+{ "key": "B", "text": "Mencari teman bicara.", "tags": ["emo_seek","disc_i","att_anxious"] },
+{ "key": "C", "text": "Menganalisis penyebabnya.", "tags": ["conf_analyzer","mbti_t","disc_c"] },
+{ "key": "D", "text": "Mencari makna positif.", "tags": ["emo_reframe","mbti_n","proc_global"] }
+]
+},
+{
+"id": 33,
+"text": "Kamu merasa aman dalam hubungan ketika…",
+"options": [
+{ "key": "A", "text": "Komunikasi terasa jujur.", "tags": ["att_secure","ll_words","color_blue"] },
+{ "key": "B", "text": "Rutinitas konsisten.", "tags": ["att_secure","disc_s","mbti_j"] },
+{ "key": "C", "text": "Ada kebebasan pribadi.", "tags": ["att_avoidant","emo_suppress","mbti_i"] },
+{ "key": "D", "text": "Respons cepat saat dibutuhkan.", "tags": ["att_anxious","emo_seek","disc_i"] }
+]
+},
+{
+"id": 34,
+"text": "Dalam obrolan ringan, kamu cenderung…",
+"options": [
+{ "key": "A", "text": "Menyelipkan humor.", "tags": ["disc_i","mbti_e","color_red"] },
+{ "key": "B", "text": "Mendengarkan lebih banyak.", "tags": ["mbti_i","disc_s","emo_soothe"] },
+{ "key": "C", "text": "Mengaitkan ke topik besar.", "tags": ["mbti_n","proc_global","color_blue"] },
+{ "key": "D", "text": "Menjaga alur tetap jelas.", "tags": ["mbti_j","disc_c","proc_micro"] }
+]
+},
+{
+"id": 35,
+"text": "Saat lelah, sentuhan pasangan terasa…",
+"options": [
+{ "key": "A", "text": "Menyembuhkan.", "tags": ["ll_touch","emo_soothe","color_red"] },
+{ "key": "B", "text": "Mengganggu.", "tags": ["att_avoidant","emo_suppress","mbti_i"] },
+{ "key": "C", "text": "Menguatkan ikatan.", "tags": ["att_secure","ll_touch","disc_s"] },
+{ "key": "D", "text": "Perlu waktu.", "tags": ["conf_freezer","emo_soothe","mbti_j"] }
+]
+},
+{
+"id": 36,
+"text": "Buatmu, komitmen itu berarti…",
+"options": [
+{ "key": "A", "text": "Kesetiaan pada janji.", "tags": ["mbti_j","disc_c","color_gold"] },
+{ "key": "B", "text": "Tumbuh bersama.", "tags": ["mbti_n","att_secure","proc_global"] },
+{ "key": "C", "text": "Saling mendukung.", "tags": ["disc_s","ll_acts","color_blue"] },
+{ "key": "D", "text": "Tetap menjadi diri sendiri.", "tags": ["mbti_p","att_avoidant","emo_reframe"] }
+]
+},
+{
+"id": 37,
+"text": "Jika pasangan berbeda gaya komunikasi, kamu…",
+"options": [
+{ "key": "A", "text": "Menyesuaikan perlahan.", "tags": ["conf_pleaser","mbti_f","disc_s"] },
+{ "key": "B", "text": "Menetapkan aturan.", "tags": ["mbti_j","disc_c","color_gold"] },
+{ "key": "C", "text": "Mencari titik tengah.", "tags": ["emo_reframe","proc_global","att_secure"] },
+{ "key": "D", "text": "Mempertahankan gaya sendiri.", "tags": ["conf_fighter","disc_d","color_red"] }
+]
+},
+{
+"id": 38,
+"text": "Hal yang membuatmu cepat dekat adalah…",
+"options": [
+{ "key": "A", "text": "Kesamaan nilai.", "tags": ["mbti_n","proc_global","color_blue"] },
+{ "key": "B", "text": "Kenyamanan fisik.", "tags": ["ll_touch","mbti_s","color_red"] },
+{ "key": "C", "text": "Perhatian kecil.", "tags": ["ll_acts","disc_s","color_gold"] },
+{ "key": "D", "text": "Percakapan intens.", "tags": ["ll_words","disc_i","mbti_e"] }
+]
+},
+{
+"id": 39,
+"text": "Dalam konflik berulang, kamu lebih memilih…",
+"options": [
+{ "key": "A", "text": "Membuat kesepakatan baru.", "tags": ["mbti_j","disc_c","proc_global"] },
+{ "key": "B", "text": "Menggali akar masalah.", "tags": ["conf_analyzer","mbti_t","proc_micro"] },
+{ "key": "C", "text": "Menurunkan tensi dulu.", "tags": ["conf_freezer","emo_soothe","disc_s"] },
+{ "key": "D", "text": "Mengungkapkan emosi.", "tags": ["conf_fighter","mbti_e","color_red"] }
+]
+},
+{
+"id": 40,
+"text": "Saat pasangan sukses, respon alammu…",
+"options": [
+{ "key": "A", "text": "Merayakan bersama.", "tags": ["disc_i","ll_time","color_red"] },
+{ "key": "B", "text": "Memberi pujian tulus.", "tags": ["ll_words","mbti_f","color_blue"] },
+{ "key": "C", "text": "Mendukung langkah berikutnya.", "tags": ["ll_acts","disc_d","color_gold"] },
+{ "key": "D", "text": "Mengamati dengan bangga.", "tags": ["disc_s","att_secure","emo_reframe"] }
+]
+}
+,
+{
+"id": 41,
+"text": "Ketika merasa canggung, kamu biasanya…",
+"options": [
+{ "key": "A", "text": "Melempar humor kecil.", "tags": ["disc_i","mbti_e","color_red"] },
+{ "key": "B", "text": "Diam sambil mengamati.", "tags": ["mbti_i","disc_s","emo_soothe"] },
+{ "key": "C", "text": "Mengubah topik.", "tags": ["mbti_p","emo_reframe","disc_i"] },
+{ "key": "D", "text": "Menjelaskan konteks.", "tags": ["disc_c","proc_micro","mbti_t"] }
+]
+},
+{
+"id": 42,
+"text": "Bagimu, quality time itu idealnya…",
+"options": [
+{ "key": "A", "text": "Tanpa gadget.", "tags": ["ll_time","mbti_j","disc_s"] },
+{ "key": "B", "text": "Santai dan spontan.", "tags": ["ll_time","mbti_p","disc_i"] },
+{ "key": "C", "text": "Ada tujuan bersama.", "tags": ["ll_time","proc_global","disc_c"] },
+{ "key": "D", "text": "Disertai obrolan mendalam.", "tags": ["ll_words","mbti_f","color_blue"] }
+]
+},
+{
+"id": 43,
+"text": "Saat pasangan butuh validasi, kamu…",
+"options": [
+{ "key": "A", "text": "Menguatkan dengan kata.", "tags": ["ll_words","mbti_f","color_blue"] },
+{ "key": "B", "text": "Menyediakan waktu.", "tags": ["ll_time","disc_s","att_secure"] },
+{ "key": "C", "text": "Membantu secara konkret.", "tags": ["ll_acts","disc_d","color_gold"] },
+{ "key": "D", "text": "Memberi sentuhan.", "tags": ["ll_touch","color_red","mbti_s"] }
+]
+},
+{
+"id": 44,
+"text": "Ketika rencana jangka panjang dibahas, kamu…",
+"options": [
+{ "key": "A", "text": "Antusias membayangkan.", "tags": ["mbti_n","disc_i","proc_global"] },
+{ "key": "B", "text": "Mencari detail realistis.", "tags": ["mbti_s","disc_c","proc_micro"] },
+{ "key": "C", "text": "Mengatur timeline.", "tags": ["mbti_j","disc_c","color_gold"] },
+{ "key": "D", "text": "Melihat kesiapan emosional.", "tags": ["mbti_f","att_secure","color_blue"] }
+]
+},
+{
+"id": 45,
+"text": "Saat konflik kecil selesai, kamu merasa lega jika…",
+"options": [
+{ "key": "A", "text": "Ada pelukan penutup.", "tags": ["ll_touch","color_red","att_secure"] },
+{ "key": "B", "text": "Ada ringkasan kesepakatan.", "tags": ["proc_micro","mbti_j","disc_c"] },
+{ "key": "C", "text": "Perasaan tersampaikan.", "tags": ["ll_words","mbti_f","color_blue"] },
+{ "key": "D", "text": "Suasana kembali ringan.", "tags": ["emo_reframe","disc_i","mbti_p"] }
+]
+},
+{
+"id": 46,
+"text": "Kalau pasanganmu butuh ruang, kamu…",
+"options": [
+{ "key": "A", "text": "Menghormati tanpa menekan.", "tags": ["att_secure","disc_s","emo_reframe"] },
+{ "key": "B", "text": "Cemas tapi menahan diri.", "tags": ["att_anxious","emo_ruminate","mbti_f"] },
+{ "key": "C", "text": "Ikut mengambil jarak.", "tags": ["att_avoidant","emo_suppress","mbti_i"] },
+{ "key": "D", "text": "Menyepakati batas waktu.", "tags": ["mbti_j","disc_c","proc_micro"] }
+]
+},
+{
+"id": 47,
+"text": "Buatmu, kepercayaan tumbuh lewat…",
+"options": [
+{ "key": "A", "text": "Konsistensi tindakan.", "tags": ["ll_acts","color_gold","disc_c"] },
+{ "key": "B", "text": "Keterbukaan cerita.", "tags": ["ll_words","mbti_f","color_blue"] },
+{ "key": "C", "text": "Waktu bersama.", "tags": ["ll_time","disc_s","att_secure"] },
+{ "key": "D", "text": "Kenyamanan fisik.", "tags": ["ll_touch","mbti_s","color_red"] }
+]
+},
+{
+"id": 48,
+"text": "Saat berbeda pendapat soal hal sepele, kamu…",
+"options": [
+{ "key": "A", "text": "Mengalah demi damai.", "tags": ["conf_pleaser","mbti_f","disc_s"] },
+{ "key": "B", "text": "Tetap pada pendirian.", "tags": ["conf_fighter","disc_d","mbti_t"] },
+{ "key": "C", "text": "Menunda pembahasan.", "tags": ["conf_freezer","emo_soothe","mbti_i"] },
+{ "key": "D", "text": "Mencari jalan tengah.", "tags": ["conf_analyzer","proc_global","att_secure"] }
+]
+},
+{
+"id": 49,
+"text": "Kamu lebih nyaman mengekspresikan cinta lewat…",
+"options": [
+{ "key": "A", "text": "Kata-kata.", "tags": ["ll_words","mbti_f","color_blue"] },
+{ "key": "B", "text": "Waktu.", "tags": ["ll_time","disc_s","att_secure"] },
+{ "key": "C", "text": "Tindakan.", "tags": ["ll_acts","disc_d","color_gold"] },
+{ "key": "D", "text": "Sentuhan.", "tags": ["ll_touch","color_red","mbti_s"] }
+]
+},
+{
+"id": 50,
+"text": "Saat hubungan diuji jarak, kamu mengandalkan…",
+"options": [
+{ "key": "A", "text": "Komunikasi rutin.", "tags": ["ll_words","mbti_j","disc_c"] },
+{ "key": "B", "text": "Kepercayaan.", "tags": ["att_secure","disc_s","emo_reframe"] },
+{ "key": "C", "text": "Kesibukan pribadi.", "tags": ["att_avoidant","emo_suppress","mbti_i"] },
+{ "key": "D", "text": "Validasi emosional.", "tags": ["att_anxious","emo_seek","color_blue"] }
+]
+}
+,
+{
+"id": 51,
+"text": "Dalam obrolan serius, kamu lebih suka…",
+"options": [
+{ "key": "A", "text": "Langsung ke inti.", "tags": ["mbti_t","disc_d","proc_micro"] },
+{ "key": "B", "text": "Membangun suasana.", "tags": ["mbti_f","disc_i","color_blue"] },
+{ "key": "C", "text": "Mengikuti alur.", "tags": ["mbti_p","disc_s","emo_reframe"] },
+{ "key": "D", "text": "Struktur jelas.", "tags": ["mbti_j","disc_c","color_gold"] }
+]
+},
+{
+"id": 52,
+"text": "Saat pasangan berubah mood, kamu…",
+"options": [
+{ "key": "A", "text": "Peka dan menyesuaikan.", "tags": ["mbti_f","disc_s","att_secure"] },
+{ "key": "B", "text": "Menanyakan langsung.", "tags": ["disc_i","ll_words","mbti_e"] },
+{ "key": "C", "text": "Menunggu sinyal.", "tags": ["mbti_i","emo_soothe","conf_freezer"] },
+{ "key": "D", "text": "Menganalisis penyebab.", "tags": ["mbti_t","conf_analyzer","disc_c"] }
+]
+},
+{
+"id": 53,
+"text": "Buatmu, hubungan sehat itu…",
+"options": [
+{ "key": "A", "text": "Seimbang dan tenang.", "tags": ["disc_s","att_secure","emo_soothe"] },
+{ "key": "B", "text": "Tumbuh dan menantang.", "tags": ["disc_d","mbti_n","proc_global"] },
+{ "key": "C", "text": "Jujur dan terbuka.", "tags": ["ll_words","mbti_f","color_blue"] },
+{ "key": "D", "text": "Terstruktur dan jelas.", "tags": ["mbti_j","disc_c","color_gold"] }
+]
+},
+{
+"id": 54,
+"text": "Ketika merasa diabaikan, kamu…",
+"options": [
+{ "key": "A", "text": "Mencari klarifikasi.", "tags": ["ll_words","mbti_t","disc_c"] },
+{ "key": "B", "text": "Merasa sedih.", "tags": ["att_anxious","emo_ruminate","color_blue"] },
+{ "key": "C", "text": "Menjauh sementara.", "tags": ["att_avoidant","emo_suppress","mbti_i"] },
+{ "key": "D", "text": "Mencari kegiatan lain.", "tags": ["emo_reframe","mbti_p","disc_i"] }
+]
+},
+{
+"id": 55,
+"text": "Dalam merencanakan kencan, kamu…",
+"options": [
+{ "key": "A", "text": "Menyiapkan detail.", "tags": ["mbti_j","disc_c","proc_micro"] },
+{ "key": "B", "text": "Mengikuti intuisi.", "tags": ["mbti_n","mbti_p","color_red"] },
+{ "key": "C", "text": "Menyesuaikan pasangan.", "tags": ["mbti_f","disc_s","att_secure"] },
+{ "key": "D", "text": "Mengajak diskusi.", "tags": ["disc_i","ll_words","mbti_e"] }
+]
+},
+{
+"id": 56,
+"text": "Saat pasangan butuh kepastian, kamu…",
+"options": [
+{ "key": "A", "text": "Memberi jadwal.", "tags": ["mbti_j","disc_c","color_gold"] },
+{ "key": "B", "text": "Memberi rasa aman.", "tags": ["att_secure","ll_touch","disc_s"] },
+{ "key": "C", "text": "Menjelaskan proses.", "tags": ["conf_analyzer","proc_global","mbti_t"] },
+{ "key": "D", "text": "Mengajak fleksibel.", "tags": ["mbti_p","emo_reframe","disc_i"] }
+]
+},
+{
+"id": 57,
+"text": "Kamu merasa paling terhubung saat…",
+"options": [
+{ "key": "A", "text": "Berbagi cerita pribadi.", "tags": ["ll_words","mbti_f","color_blue"] },
+{ "key": "B", "text": "Menghabiskan waktu.", "tags": ["ll_time","disc_s","att_secure"] },
+{ "key": "C", "text": "Bekerja sama.", "tags": ["ll_acts","disc_d","color_gold"] },
+{ "key": "D", "text": "Dekat secara fisik.", "tags": ["ll_touch","mbti_s","color_red"] }
+]
+},
+{
+"id": 58,
+"text": "Saat konflik belum selesai, kamu…",
+"options": [
+{ "key": "A", "text": "Sulit fokus ke hal lain.", "tags": ["emo_ruminate","att_anxious","mbti_f"] },
+{ "key": "B", "text": "Menunda sampai siap.", "tags": ["conf_freezer","emo_soothe","mbti_i"] },
+{ "key": "C", "text": "Mencari resolusi cepat.", "tags": ["conf_fighter","disc_d","mbti_t"] },
+{ "key": "D", "text": "Menyusun poin diskusi.", "tags": ["conf_analyzer","proc_micro","disc_c"] }
+]
+},
+{
+"id": 59,
+"text": "Hal yang membuatmu betah adalah…",
+"options": [
+{ "key": "A", "text": "Rasa aman.", "tags": ["att_secure","disc_s","emo_soothe"] },
+{ "key": "B", "text": "Kebebasan.", "tags": ["att_avoidant","mbti_p","emo_reframe"] },
+{ "key": "C", "text": "Kedalaman.", "tags": ["mbti_n","color_blue","proc_global"] },
+{ "key": "D", "text": "Kebermanfaatan.", "tags": ["ll_acts","disc_d","color_gold"] }
+]
+},
+{
+"id": 60,
+"text": "Saat pasangan salah paham, kamu ingin ia…",
+"options": [
+{ "key": "A", "text": "Mendengarkan penuh.", "tags": ["ll_time","mbti_f","disc_s"] },
+{ "key": "B", "text": "Menerima penjelasan.", "tags": ["ll_words","disc_c","mbti_t"] },
+{ "key": "C", "text": "Memberi waktu.", "tags": ["emo_soothe","mbti_i","att_secure"] },
+{ "key": "D", "text": "Melihat niat baik.", "tags": ["emo_reframe","proc_global","color_blue"] }
+]
+}
+,
+{
+"id": 61,
+"text": "Dalam hubungan, kamu lebih sering melihat…",
+"options": [
+{ "key": "A", "text": "Gambaran besar.", "tags": ["proc_global","mbti_n","disc_d"] },
+{ "key": "B", "text": "Detail sehari-hari.", "tags": ["proc_micro","mbti_s","disc_c"] },
+{ "key": "C", "text": "Nuansa emosi.", "tags": ["mbti_f","color_blue","disc_s"] },
+{ "key": "D", "text": "Alur yang berkembang.", "tags": ["mbti_p","disc_i","emo_reframe"] }
+]
+},
+{
+"id": 62,
+"text": "Saat rencana tak berjalan, kamu…",
+"options": [
+{ "key": "A", "text": "Menyesuaikan cepat.", "tags": ["mbti_p","disc_i","emo_reframe"] },
+{ "key": "B", "text": "Menyusun ulang.", "tags": ["mbti_j","disc_c","proc_micro"] },
+{ "key": "C", "text": "Menenangkan emosi.", "tags": ["emo_soothe","disc_s","mbti_i"] },
+{ "key": "D", "text": "Mencari pelajaran.", "tags": ["mbti_n","proc_global","color_blue"] }
+]
+},
+{
+"id": 63,
+"text": "Kamu merasa paling dihargai ketika…",
+"options": [
+{ "key": "A", "text": "Diakui dengan kata.", "tags": ["ll_words","mbti_f","color_blue"] },
+{ "key": "B", "text": "Diprioritaskan waktunya.", "tags": ["ll_time","disc_s","att_secure"] },
+{ "key": "C", "text": "Dibantu nyata.", "tags": ["ll_acts","disc_d","color_gold"] },
+{ "key": "D", "text": "Didekati hangat.", "tags": ["ll_touch","mbti_s","color_red"] }
+]
+},
+{
+"id": 64,
+"text": "Saat ada kritik, kamu…",
+"options": [
+{ "key": "A", "text": "Menyaring isinya.", "tags": ["mbti_t","proc_micro","disc_c"] },
+{ "key": "B", "text": "Merasa tersentuh.", "tags": ["mbti_f","emo_ruminate","color_blue"] },
+{ "key": "C", "text": "Menerima dan bergerak.", "tags": ["disc_d","emo_reframe","color_gold"] },
+{ "key": "D", "text": "Butuh waktu memproses.", "tags": ["mbti_i","emo_soothe","disc_s"] }
+]
+},
+{
+"id": 65,
+"text": "Dalam obrolan panjang, kamu lebih suka…",
+"options": [
+{ "key": "A", "text": "Mengalir bebas.", "tags": ["mbti_p","disc_i","emo_reframe"] },
+{ "key": "B", "text": "Topik mendalam.", "tags": ["mbti_n","color_blue","proc_global"] },
+{ "key": "C", "text": "Poin terstruktur.", "tags": ["mbti_j","disc_c","proc_micro"] },
+{ "key": "D", "text": "Cerita sehari-hari.", "tags": ["mbti_s","disc_s","emo_soothe"] }
+]
+},
+{
+"id": 66,
+"text": "Saat pasangan meminta bantuan, kamu…",
+"options": [
+{ "key": "A", "text": "Sigap bertindak.", "tags": ["ll_acts","disc_d","color_gold"] },
+{ "key": "B", "text": "Mendengarkan dulu.", "tags": ["ll_words","mbti_f","color_blue"] },
+{ "key": "C", "text": "Mengatur langkah.", "tags": ["mbti_j","disc_c","proc_micro"] },
+{ "key": "D", "text": "Menyesuaikan kapasitas.", "tags": ["att_secure","disc_s","emo_reframe"] }
+]
+},
+{
+"id": 67,
+"text": "Kamu lebih sering memproses perasaan dengan…",
+"options": [
+{ "key": "A", "text": "Merenung sendiri.", "tags": ["mbti_i","emo_ruminate","disc_s"] },
+{ "key": "B", "text": "Bercerita.", "tags": ["mbti_e","emo_seek","disc_i"] },
+{ "key": "C", "text": "Menulis atau merangkum.", "tags": ["proc_micro","conf_analyzer","disc_c"] },
+{ "key": "D", "text": "Mencari makna.", "tags": ["mbti_n","emo_reframe","proc_global"] }
+]
+},
+{
+"id": 68,
+"text": "Saat hubungan berkembang, kamu merasa…",
+"options": [
+{ "key": "A", "text": "Lebih tenang.", "tags": ["att_secure","disc_s","emo_soothe"] },
+{ "key": "B", "text": "Lebih bebas.", "tags": ["att_avoidant","mbti_p","emo_reframe"] },
+{ "key": "C", "text": "Lebih terikat.", "tags": ["att_anxious","emo_ruminate","mbti_f"] },
+{ "key": "D", "text": "Lebih terarah.", "tags": ["mbti_j","disc_c","color_gold"] }
+]
+},
+{
+"id": 69,
+"text": "Buatmu, romantis itu…",
+"options": [
+{ "key": "A", "text": "Sederhana tapi tulus.", "tags": ["disc_s","att_secure","color_blue"] },
+{ "key": "B", "text": "Penuh kejutan.", "tags": ["disc_i","mbti_p","color_red"] },
+{ "key": "C", "text": "Terencana rapi.", "tags": ["mbti_j","disc_c","color_gold"] },
+{ "key": "D", "text": "Dalam dan bermakna.", "tags": ["mbti_n","proc_global","color_blue"] }
+]
+},
+{
+"id": 70,
+"text": "Saat pasangan ingin dibujuk, kamu…",
+"options": [
+{ "key": "A", "text": "Menggunakan empati.", "tags": ["mbti_f","ll_words","color_blue"] },
+{ "key": "B", "text": "Menawarkan solusi.", "tags": ["mbti_t","ll_acts","disc_d"] },
+{ "key": "C", "text": "Memberi waktu.", "tags": ["emo_soothe","disc_s","mbti_i"] },
+{ "key": "D", "text": "Mengajak fleksibel.", "tags": ["mbti_p","emo_reframe","disc_i"] }
+]
+}
+,
+{
+"id": 71,
+"text": "Kamu merasa paling dekat ketika…",
+"options": [
+{ "key": "A", "text": "Bersama dalam diam.", "tags": ["ll_time","mbti_i","disc_s"] },
+{ "key": "B", "text": "Tertawa lepas.", "tags": ["disc_i","mbti_e","color_red"] },
+{ "key": "C", "text": "Berbagi mimpi.", "tags": ["mbti_n","proc_global","color_blue"] },
+{ "key": "D", "text": "Bekerja sama.", "tags": ["ll_acts","disc_d","color_gold"] }
+]
+},
+{
+"id": 72,
+"text": "Saat emosi pasangan kuat, kamu…",
+"options": [
+{ "key": "A", "text": "Menjadi penenang.", "tags": ["emo_soothe","disc_s","att_secure"] },
+{ "key": "B", "text": "Mengimbangi energi.", "tags": ["disc_i","mbti_e","color_red"] },
+{ "key": "C", "text": "Menarik diri.", "tags": ["att_avoidant","emo_suppress","mbti_i"] },
+{ "key": "D", "text": "Membingkai ulang.", "tags": ["emo_reframe","proc_global","mbti_n"] }
+]
+},
+{
+"id": 73,
+"text": "Buatmu, kompromi itu…",
+"options": [
+{ "key": "A", "text": "Tanda kedewasaan.", "tags": ["att_secure","mbti_j","disc_c"] },
+{ "key": "B", "text": "Bagian dari proses.", "tags": ["emo_reframe","proc_global","disc_s"] },
+{ "key": "C", "text": "Perlu batas.", "tags": ["att_avoidant","mbti_t","disc_c"] },
+{ "key": "D", "text": "Kadang melelahkan.", "tags": ["emo_ruminate","mbti_f","color_blue"] }
+]
+},
+{
+"id": 74,
+"text": "Saat pasangan ingin cepat, kamu…",
+"options": [
+{ "key": "A", "text": "Mengikuti ritme.", "tags": ["mbti_p","disc_i","emo_reframe"] },
+{ "key": "B", "text": "Menetapkan batas.", "tags": ["mbti_j","disc_c","color_gold"] },
+{ "key": "C", "text": "Menjelaskan kebutuhan.", "tags": ["ll_words","mbti_f","color_blue"] },
+{ "key": "D", "text": "Minta waktu.", "tags": ["emo_soothe","mbti_i","disc_s"] }
+]
+},
+{
+"id": 75,
+"text": "Dalam hubungan, kamu lebih termotivasi oleh…",
+"options": [
+{ "key": "A", "text": "Rasa aman.", "tags": ["att_secure","disc_s","emo_soothe"] },
+{ "key": "B", "text": "Pertumbuhan.", "tags": ["mbti_n","disc_d","proc_global"] },
+{ "key": "C", "text": "Kedekatan.", "tags": ["ll_touch","mbti_s","color_red"] },
+{ "key": "D", "text": "Kejelasan.", "tags": ["mbti_j","disc_c","color_gold"] }
+]
+},
+{
+"id": 76,
+"text": "Saat konflik mereda, kamu…",
+"options": [
+{ "key": "A", "text": "Mengajak refleksi.", "tags": ["emo_reframe","proc_global","mbti_n"] },
+{ "key": "B", "text": "Menyusun kesepakatan.", "tags": ["mbti_j","disc_c","proc_micro"] },
+{ "key": "C", "text": "Mencari kehangatan.", "tags": ["ll_touch","disc_s","att_secure"] },
+{ "key": "D", "text": "Mengalihkan ke hal ringan.", "tags": ["mbti_p","disc_i","emo_reframe"] }
+]
+},
+{
+"id": 77,
+"text": "Kamu merasa paling didukung saat pasangan…",
+"options": [
+{ "key": "A", "text": "Hadir penuh.", "tags": ["ll_time","disc_s","att_secure"] },
+{ "key": "B", "text": "Memberi dorongan.", "tags": ["disc_d","ll_words","color_gold"] },
+{ "key": "C", "text": "Membantu teknis.", "tags": ["ll_acts","disc_c","mbti_t"] },
+{ "key": "D", "text": "Mengerti perasaan.", "tags": ["mbti_f","emo_seek","color_blue"] }
+]
+},
+{
+"id": 78,
+"text": "Saat merasa tidak sinkron, kamu…",
+"options": [
+{ "key": "A", "text": "Mengajak ngobrol.", "tags": ["ll_words","disc_i","mbti_e"] },
+{ "key": "B", "text": "Mengamati dulu.", "tags": ["mbti_i","disc_s","emo_soothe"] },
+{ "key": "C", "text": "Mencari pola.", "tags": ["conf_analyzer","proc_micro","disc_c"] },
+{ "key": "D", "text": "Mencoba hal baru.", "tags": ["mbti_p","emo_reframe","color_red"] }
+]
+},
+{
+"id": 79,
+"text": "Buatmu, janji itu…",
+"options": [
+{ "key": "A", "text": "Pegangan utama.", "tags": ["mbti_j","disc_c","color_gold"] },
+{ "key": "B", "text": "Niat baik.", "tags": ["mbti_f","color_blue","emo_reframe"] },
+{ "key": "C", "text": "Kesepakatan fleksibel.", "tags": ["mbti_p","disc_i","emo_reframe"] },
+{ "key": "D", "text": "Bukti lewat tindakan.", "tags": ["ll_acts","disc_d","color_gold"] }
+]
+},
+{
+"id": 80,
+"text": "Saat pasangan butuh diyakinkan, kamu…",
+"options": [
+{ "key": "A", "text": "Menunjukkan konsistensi.", "tags": ["ll_acts","disc_c","att_secure"] },
+{ "key": "B", "text": "Mengucapkan dengan jelas.", "tags": ["ll_words","mbti_f","color_blue"] },
+{ "key": "C", "text": "Menghabiskan waktu.", "tags": ["ll_time","disc_s","att_secure"] },
+{ "key": "D", "text": "Memberi ruang aman.", "tags": ["emo_soothe","mbti_i","disc_s"] }
+]
+}
+,
+{
+"id": 81,
+"text": "Kamu lebih nyaman mengekspresikan marah dengan…",
+"options": [
+{ "key": "A", "text": "Berbicara tegas.", "tags": ["conf_fighter","mbti_t","disc_d"] },
+{ "key": "B", "text": "Menulis atau merangkum.", "tags": ["conf_analyzer","proc_micro","disc_c"] },
+{ "key": "C", "text": "Menarik diri.", "tags": ["conf_freezer","emo_suppress","mbti_i"] },
+{ "key": "D", "text": "Menjaga harmoni.", "tags": ["conf_pleaser","mbti_f","disc_s"] }
+]
+},
+{
+"id": 82,
+"text": "Dalam kebersamaan, kamu menghargai…",
+"options": [
+{ "key": "A", "text": "Ketenangan.", "tags": ["disc_s","emo_soothe","att_secure"] },
+{ "key": "B", "text": "Keceriaan.", "tags": ["disc_i","mbti_e","color_red"] },
+{ "key": "C", "text": "Tujuan bersama.", "tags": ["disc_d","proc_global","mbti_n"] },
+{ "key": "D", "text": "Keteraturan.", "tags": ["mbti_j","disc_c","color_gold"] }
+]
+},
+{
+"id": 83,
+"text": "Saat pasangan menyampaikan batasan, kamu…",
+"options": [
+{ "key": "A", "text": "Menghormati.", "tags": ["att_secure","disc_s","emo_reframe"] },
+{ "key": "B", "text": "Bertanya klarifikasi.", "tags": ["ll_words","disc_c","mbti_t"] },
+{ "key": "C", "text": "Merasa tersentuh.", "tags": ["att_anxious","emo_ruminate","mbti_f"] },
+{ "key": "D", "text": "Mengambil jarak.", "tags": ["att_avoidant","emo_suppress","mbti_i"] }
+]
+},
+{
+"id": 84,
+"text": "Kamu menikmati percakapan yang…",
+"options": [
+{ "key": "A", "text": "Ringan dan hangat.", "tags": ["disc_s","mbti_s","emo_soothe"] },
+{ "key": "B", "text": "Dalam dan reflektif.", "tags": ["mbti_n","color_blue","proc_global"] },
+{ "key": "C", "text": "Terarah dan jelas.", "tags": ["mbti_j","disc_c","proc_micro"] },
+{ "key": "D", "text": "Seru dan spontan.", "tags": ["mbti_p","disc_i","color_red"] }
+]
+},
+{
+"id": 85,
+"text": "Saat hubungan diuji waktu, kamu percaya pada…",
+"options": [
+{ "key": "A", "text": "Konsistensi.", "tags": ["disc_c","mbti_j","color_gold"] },
+{ "key": "B", "text": "Koneksi emosional.", "tags": ["mbti_f","att_secure","color_blue"] },
+{ "key": "C", "text": "Fleksibilitas.", "tags": ["mbti_p","emo_reframe","disc_i"] },
+{ "key": "D", "text": "Kemandirian.", "tags": ["att_avoidant","emo_suppress","mbti_i"] }
+]
+},
+{
+"id": 86,
+"text": "Saat pasangan menginginkan perubahan, kamu…",
+"options": [
+{ "key": "A", "text": "Menyambut ide.", "tags": ["mbti_n","disc_i","proc_global"] },
+{ "key": "B", "text": "Meminta rencana.", "tags": ["mbti_j","disc_c","proc_micro"] },
+{ "key": "C", "text": "Menilai dampaknya.", "tags": ["mbti_t","disc_c","proc_micro"] },
+{ "key": "D", "text": "Mempertimbangkan perasaan.", "tags": ["mbti_f","color_blue","att_secure"] }
+]
+},
+{
+"id": 87,
+"text": "Buatmu, kebahagiaan bersama itu…",
+"options": [
+{ "key": "A", "text": "Tenang dan aman.", "tags": ["att_secure","disc_s","emo_soothe"] },
+{ "key": "B", "text": "Penuh tawa.", "tags": ["disc_i","mbti_e","color_red"] },
+{ "key": "C", "text": "Bermakna.", "tags": ["mbti_n","proc_global","color_blue"] },
+{ "key": "D", "text": "Produktif.", "tags": ["ll_acts","disc_d","color_gold"] }
+]
+},
+{
+"id": 88,
+"text": "Saat pasangan butuh diyakinkan berkali-kali, kamu…",
+"options": [
+{ "key": "A", "text": "Sabar mengulang.", "tags": ["conf_pleaser","mbti_f","disc_s"] },
+{ "key": "B", "text": "Menetapkan batas.", "tags": ["mbti_j","disc_c","color_gold"] },
+{ "key": "C", "text": "Mencari cara lain.", "tags": ["emo_reframe","proc_global","disc_i"] },
+{ "key": "D", "text": "Menunjukkan tindakan.", "tags": ["ll_acts","disc_d","color_gold"] }
+]
+},
+{
+"id": 89,
+"text": "Kamu lebih suka hubungan yang…",
+"options": [
+{ "key": "A", "text": "Stabil.", "tags": ["disc_s","att_secure","mbti_j"] },
+{ "key": "B", "text": "Dinamis.", "tags": ["disc_i","mbti_p","color_red"] },
+{ "key": "C", "text": "Mendalam.", "tags": ["mbti_n","proc_global","color_blue"] },
+{ "key": "D", "text": "Efisien.", "tags": ["disc_c","mbti_t","color_gold"] }
+]
+},
+{
+"id": 90,
+"text": "Saat pasangan ingin dimengerti, kamu…",
+"options": [
+{ "key": "A", "text": "Mendengarkan aktif.", "tags": ["ll_time","mbti_f","disc_s"] },
+{ "key": "B", "text": "Merangkum poinnya.", "tags": ["conf_analyzer","proc_micro","disc_c"] },
+{ "key": "C", "text": "Menggali perasaan.", "tags": ["emo_seek","mbti_f","color_blue"] },
+{ "key": "D", "text": "Memberi contoh solusi.", "tags": ["mbti_t","disc_d","color_gold"] }
+]
+}
+,
+{
+"id": 91,
+"text": "Buatmu, kehadiran itu terasa ketika…",
+"options": [
+{ "key": "A", "text": "Benar-benar fokus.", "tags": ["ll_time","disc_s","att_secure"] },
+{ "key": "B", "text": "Responsif.", "tags": ["disc_i","emo_seek","mbti_e"] },
+{ "key": "C", "text": "Konsisten.", "tags": ["disc_c","mbti_j","color_gold"] },
+{ "key": "D", "text": "Hangat secara fisik.", "tags": ["ll_touch","mbti_s","color_red"] }
+]
+},
+{
+"id": 92,
+"text": "Saat hubungan terasa aman, kamu…",
+"options": [
+{ "key": "A", "text": "Lebih terbuka.", "tags": ["att_secure","mbti_f","color_blue"] },
+{ "key": "B", "text": "Lebih mandiri.", "tags": ["att_avoidant","mbti_i","emo_reframe"] },
+{ "key": "C", "text": "Lebih ekspresif.", "tags": ["mbti_e","disc_i","color_red"] },
+{ "key": "D", "text": "Lebih terencana.", "tags": ["mbti_j","disc_c","color_gold"] }
+]
+},
+{
+"id": 93,
+"text": "Kamu menilai konflik sebagai…",
+"options": [
+{ "key": "A", "text": "Ancaman.", "tags": ["att_anxious","emo_ruminate","mbti_f"] },
+{ "key": "B", "text": "Kesempatan tumbuh.", "tags": ["emo_reframe","mbti_n","proc_global"] },
+{ "key": "C", "text": "Hal yang melelahkan.", "tags": ["conf_freezer","emo_soothe","disc_s"] },
+{ "key": "D", "text": "Masalah yang perlu diselesaikan.", "tags": ["mbti_t","conf_analyzer","disc_c"] }
+]
+},
+{
+"id": 94,
+"text": "Saat pasangan memberi kejutan, kamu…",
+"options": [
+{ "key": "A", "text": "Antusias.", "tags": ["disc_i","mbti_e","color_red"] },
+{ "key": "B", "text": "Terharu.", "tags": ["mbti_f","color_blue","emo_seek"] },
+{ "key": "C", "text": "Menghargai niat.", "tags": ["att_secure","disc_s","emo_reframe"] },
+{ "key": "D", "text": "Menilai kesesuaian.", "tags": ["disc_c","mbti_t","proc_micro"] }
+]
+},
+{
+"id": 95,
+"text": "Kamu merasa paling sinkron dengan pasangan yang…",
+"options": [
+{ "key": "A", "text": "Komunikatif.", "tags": ["disc_i","ll_words","mbti_e"] },
+{ "key": "B", "text": "Tenang.", "tags": ["disc_s","emo_soothe","mbti_i"] },
+{ "key": "C", "text": "Visioner.", "tags": ["mbti_n","proc_global","color_blue"] },
+{ "key": "D", "text": "Terstruktur.", "tags": ["mbti_j","disc_c","color_gold"] }
+]
+},
+{
+"id": 96,
+"text": "Saat hubungan butuh diperbaiki, kamu mulai dari…",
+"options": [
+{ "key": "A", "text": "Obrolan jujur.", "tags": ["ll_words","mbti_f","color_blue"] },
+{ "key": "B", "text": "Perubahan kecil.", "tags": ["ll_acts","disc_s","color_gold"] },
+{ "key": "C", "text": "Evaluasi menyeluruh.", "tags": ["conf_analyzer","proc_global","disc_c"] },
+{ "key": "D", "text": "Mencari suasana baru.", "tags": ["mbti_p","disc_i","color_red"] }
+]
+},
+{
+"id": 97,
+"text": "Buatmu, cinta terasa dewasa ketika…",
+"options": [
+{ "key": "A", "text": "Ada saling percaya.", "tags": ["att_secure","disc_s","emo_soothe"] },
+{ "key": "B", "text": "Ada ruang tumbuh.", "tags": ["mbti_n","proc_global","disc_d"] },
+{ "key": "C", "text": "Ada kejelasan.", "tags": ["mbti_j","disc_c","color_gold"] },
+{ "key": "D", "text": "Ada kehangatan.", "tags": ["ll_touch","mbti_s","color_red"] }
+]
+},
+{
+"id": 98,
+"text": "Saat pasangan meminta komitmen, kamu…",
+"options": [
+{ "key": "A", "text": "Meminta waktu.", "tags": ["emo_soothe","mbti_i","att_avoidant"] },
+{ "key": "B", "text": "Menyambut dengan hangat.", "tags": ["att_secure","mbti_f","color_blue"] },
+{ "key": "C", "text": "Menanyakan detail.", "tags": ["mbti_t","disc_c","proc_micro"] },
+{ "key": "D", "text": "Menyepakati langkah.", "tags": ["mbti_j","disc_d","color_gold"] }
+]
+},
+{
+"id": 99,
+"text": "Kamu merasa paling hidup dalam hubungan saat…",
+"options": [
+{ "key": "A", "text": "Bertumbuh bersama.", "tags": ["mbti_n","proc_global","disc_d"] },
+{ "key": "B", "text": "Merasa aman.", "tags": ["att_secure","disc_s","emo_soothe"] },
+{ "key": "C", "text": "Terhubung emosional.", "tags": ["mbti_f","color_blue","emo_seek"] },
+{ "key": "D", "text": "Beraksi bersama.", "tags": ["ll_acts","disc_i","color_red"] }
+]
+},
+{
+"id": 100,
+"text": "Jika harus merangkum caramu mencintai, kamu akan bilang…",
+"options": [
+{ "key": "A", "text": "Dengan kehadiran.", "tags": ["ll_time","disc_s","att_secure"] },
+{ "key": "B", "text": "Dengan kata.", "tags": ["ll_words","mbti_f","color_blue"] },
+{ "key": "C", "text": "Dengan tindakan.", "tags": ["ll_acts","disc_d","color_gold"] },
+{ "key": "D", "text": "Dengan kehangatan.", "tags": ["ll_touch","mbti_s","color_red"] }
+]
+}
+]
