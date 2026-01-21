@@ -1,159 +1,152 @@
 <!doctype html>
-<html lang="id">
+<html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Nid des Âmes</title>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500,650&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="./styles.css" />
 </head>
 
 <body>
-  <!-- Background image layer -->
+  <!-- Background layer -->
   <div class="bg" aria-hidden="true"></div>
 
-  <!-- Fox corner (tetap cerah) -->
-  <img class="corner-fox" src="./assets/fox.png" alt="" aria-hidden="true" />
+  <!-- Fox decoration -->
+  <img class="fox" src="./assets/fox.png" alt="" aria-hidden="true" />
 
-  <div class="wrap">
+  <main class="app">
+    <!-- Topbar -->
     <header class="topbar">
-        <div class="brand">
-        <img src="./assets/logo.png" alt="Nid des Âmes logo" class="brand__logo" />
-
-        <div class="brand__text">
-        <div class="brand__title">Nid des Âmes</div>
-        <div class="brand__tagline">A gentle world for different natures.</div>
-    </div>
-  </div>
+      <div class="brand">
+        <img class="logo" src="./assets/logo.png" alt="Nid des Âmes logo" />
+        <div class="brandText">
+          <div class="brandName">Nid des Âmes</div>
+          <div class="brandTag">A gentle world for different natures.</div>
+        </div>
+      </div>
 
       <nav class="nav">
-        <button class="pill is-active" data-nav="home">Home</button>
-        <button class="pill" data-nav="test">Test</button>
-        <button class="pill" data-nav="result">Result</button>
+        <button class="chip" type="button" data-go="hero">Home</button>
+        <button class="chip" type="button" data-go="quiz">Test</button>
+        <button class="chip" type="button" data-go="result">Result</button>
       </nav>
     </header>
 
-    <main class="stage">
-      <!-- HOME -->
-      <section id="view-home" class="view is-active">
-        <div class="heroCard">
-          <div class="heroLeft">
-            <h1 class="h1">Nid des Âmes</h1>
+    <!-- HERO -->
+    <section class="card hero" id="hero">
+      <div class="heroGrid">
+        <div>
+          <h1 class="h1">A quiet place to understand how you love.</h1>
+          <p class="lead">
+            Not a verdict. Not a label. Just a gentle mirror—
+            so you can notice your patterns without being judged.
+          </p>
 
-            <p class="lead">
-              This is not a test to define you. It’s a quiet space to notice how your heart moves—
-              when it feels close, when it needs distance, when it stays, and when it protects itself.
+          <div class="note">
+            <span class="noteIcon">✦</span>
+            <span>No answers are right or wrong. Every response is valid.</span>
+          </div>
+
+          <div class="ctaRow">
+            <button class="btn primary" id="startBtn" type="button">Begin reflection</button>
+            <button class="btn ghost" id="previewBtn" type="button">Preview result</button>
+          </div>
+
+          <p class="micro">Take your time. This space will not rush you.</p>
+        </div>
+
+        <div class="heroPanel" aria-hidden="true">
+          <div class="panelCard">
+            <div class="panelTitle">What this is</div>
+            <div class="panelLine"></div>
+            <p class="panelText">
+              A reflective experience inspired by relational psychology,
+              emotional safety, and real human patterns.
             </p>
-
-            <div class="note">
-              <span class="noteDot" aria-hidden="true"></span>
-              <span>Take your time. There’s no right way to be here.</span>
-            </div>
-
-            <div class="ctaRow">
-              <button class="btn primary" id="btn-enter">Enter gently</button>
-              <button class="btn ghost" id="btn-preview">Preview vibe</button>
-            </div>
-
-            <p class="micro">Warm, reflective, not a verdict. Just a mirror.</p>
-          </div>
-
-          <aside class="heroRight">
-            <div class="miniCard">
-              <div class="miniTitle">Your Nature Card</div>
-              <div class="miniLine"></div>
-              <p class="miniText">
-                A small, warm mirror—written like a letter.
-                Not to decide anything. Just to understand.
-              </p>
-
-              <div class="pillRow">
-                <span class="chip">Attachment</span>
-                <span class="chip">Love Language</span>
-                <span class="chip">Conflict Style</span>
-                <span class="chip">Regulation</span>
-              </div>
-            </div>
-          </aside>
-        </div>
-
-        <footer class="footer">
-          © Nid des Âmes • A warm, reflective experience — not a dating app.
-        </footer>
-      </section>
-
-      <!-- TEST -->
-      <section id="view-test" class="view">
-        <div class="panel">
-          <div class="panelTop">
-            <div>
-              <div class="panelTitle">Test</div>
-              <div class="panelSub">Pilih jawaban yang paling natural buat kamu.</div>
-            </div>
-
-            <div class="progress">
-              <div class="progressText" id="progressText">0 / 0</div>
-              <div class="track">
-                <div class="bar" id="progressFill" style="width:0%"></div>
-              </div>
-            </div>
-          </div>
-
-          <div class="qbox">
-            <div class="qText" id="qText">Klik "Enter gently" dulu ya…</div>
-            <div class="qOptions" id="qOptions"></div>
-          </div>
-
-          <div class="panelActions">
-            <button class="btn ghost" id="btn-back" disabled>Back</button>
-            <button class="btn primary" id="btn-next" disabled>Next</button>
-          </div>
-        </div>
-
-        <footer class="footer">
-          Tip: jawaban “benar” nggak ada. Yang ada: pola yang jujur.
-        </footer>
-      </section>
-
-      <!-- RESULT -->
-      <section id="view-result" class="view">
-        <div class="panel">
-          <div class="panelTop">
-            <div>
-              <div class="panelTitle">Result</div>
-              <div class="panelSub">Ringkasan yang lembut (bukan vonis).</div>
-            </div>
-            <button class="btn ghost" id="btn-restart">Restart</button>
-          </div>
-
-          <div class="resultGrid">
-            <div class="resultCard">
-              <div class="resultH">Dominant Signals</div>
-              <div class="resultP" id="resultSummary">Selesaikan test dulu ya 🙂</div>
-              <div class="resultTags" id="resultTags"></div>
-            </div>
-
-            <div class="resultCard">
-              <div class="resultH">Your Note</div>
-              <div class="resultP" id="resultNote">
-                “You don’t have to be loud to be real. Softness can be a home.”
-              </div>
-              <div class="resultMini">
-                Kamu bisa pakai ini sebagai bahan refleksi atau ngobrol bareng pasangan.
-              </div>
+            <div class="panelPills">
+              <span class="pill">Attachment</span>
+              <span class="pill">Communication</span>
+              <span class="pill">Conflict</span>
+              <span class="pill">Regulation</span>
             </div>
           </div>
         </div>
+      </div>
+    </section>
 
-        <footer class="footer">© Nid des Âmes • Keep it gentle.</footer>
-      </section>
-    </main>
-  </div>
+    <!-- QUIZ -->
+    <section class="card hidden" id="quiz">
+      <div class="quizTop">
+        <div class="progress">
+          <div class="track"><div class="bar" id="bar" style="width:20%"></div></div>
+          <div class="meta" id="meta">1 / 5</div>
+        </div>
 
-  <script src="./app.js"></script>
+        <div class="quizActions">
+          <button class="btn ghost" id="backBtn" type="button">← Back</button>
+          <button class="btn ghost" id="exitBtn" type="button">Exit</button>
+        </div>
+      </div>
+
+      <div class="qWrap">
+        <div class="qLabel">Question</div>
+        <div class="qPrompt" id="qPrompt">
+          When you feel close to someone, what feels most familiar?
+        </div>
+
+        <div class="options" id="options">
+          <button class="opt" type="button"><span class="pillKey">A</span> Feeling calm just being there</button>
+          <button class="opt" type="button"><span class="pillKey">B</span> Wanting to connect and share</button>
+          <button class="opt" type="button"><span class="pillKey">C</span> Needing space to stay yourself</button>
+          <button class="opt" type="button"><span class="pillKey">D</span> Becoming sensitive to changes</button>
+        </div>
+      </div>
+
+      <div class="quizBottom">
+        <button class="btn ghost" id="resetBtn" type="button">Reset</button>
+        <button class="btn primary" id="nextBtn" type="button">Next →</button>
+      </div>
+    </section>
+
+    <!-- RESULT -->
+    <section class="card hidden" id="result">
+      <div class="resultHead">
+        <span class="badge">Your Result</span>
+        <h2 class="h2">A Letter From Your Nature</h2>
+        <p class="sub">Not a verdict. Just a gentle mirror you can return to.</p>
+      </div>
+
+      <article class="letter">
+        <p><b>The Breeze • Fox • Healer</b></p>
+        <p>
+          You love in a way that feels quiet, but deeply intentional.
+          You notice details people forget, and you protect the bond with softness.
+        </p>
+        <p class="soft">
+          Take this slowly. Love doesn’t have to be loud to be real.
+        </p>
+      </article>
+
+      <div class="resultActions">
+        <button class="btn ghost" id="restartBtn" type="button">Start over</button>
+        <button class="btn primary" id="copyBtn" type="button">Copy result</button>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <span>© Nid des Âmes</span>
+      <span class="dotSep">·</span>
+      <span>Not a dating app</span>
+      <span class="dotSep">·</span>
+      <span>Built for reflection</span>
+    </footer>
+  </main>
+
+  <script src="./app.js" defer></script>
 </body>
 </html>
